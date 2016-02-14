@@ -1,0 +1,8 @@
+This data set is based on trace files obtained from
+
+   http://ita.ee.lbl.gov/html/contrib/WorldCup.html
+
+The IP addresses were removed from the original trace files. We have replaced
+the client IDs with fictional (random) IP addresses.
+
+Uncompressed, the size of the data set is approx. 4 GB.

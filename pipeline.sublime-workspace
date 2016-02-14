@@ -1,0 +1,1258 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"reqs"
+			],
+			[
+				"bz",
+				"bzcat"
+			],
+			[
+				"av",
+				"Average"
+			],
+			[
+				"st",
+				"stamp"
+			],
+			[
+				"x",
+				"xlabel"
+			],
+			[
+				"h",
+				"hour"
+			],
+			[
+				"ba",
+				"balenceRoot"
+			],
+			[
+				"AV",
+				"AVLNode"
+			],
+			[
+				"AVL",
+				"AVLTree"
+			],
+			[
+				"er",
+				"eraseNode"
+			],
+			[
+				"g",
+				"getinfo"
+			],
+			[
+				"ge",
+				"getRight"
+			],
+			[
+				"geti",
+				"getInfo"
+			],
+			[
+				"l",
+				"lps"
+			],
+			[
+				"NUl",
+				"NULL"
+			],
+			[
+				"get",
+				"getInSuccParent"
+			],
+			[
+				"con",
+				"contains"
+			],
+			[
+				"ran",
+				"randrange"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"Th",
+				"Theta"
+			],
+			[
+				"fi",
+				"finished"
+			],
+			[
+				"NU",
+				"numArrows"
+			],
+			[
+				"in",
+				"initialise"
+			],
+			[
+				"nu",
+				"numArrows"
+			],
+			[
+				"a",
+				"arrow"
+			],
+			[
+				"num",
+				"numArrows"
+			],
+			[
+				"rand",
+				"randColour"
+			],
+			[
+				"MAX",
+				"MAX_FIREWORK"
+			],
+			[
+				"MA",
+				"MAX_FIREWORK"
+			],
+			[
+				"gr",
+				"gravity"
+			],
+			[
+				"begi",
+				"beginGravity"
+			],
+			[
+				"dra",
+				"drawGlow"
+			],
+			[
+				"se",
+				"secondTrail"
+			],
+			[
+				"fir",
+				"firstTrail"
+			],
+			[
+				"for",
+				"forthTrail"
+			],
+			[
+				"thi",
+				"thirdTrail"
+			],
+			[
+				"Ran",
+				"RAND_MAX"
+			],
+			[
+				"drawGl",
+				"drawGlowTrail"
+			],
+			[
+				"draw",
+				"drawTrail"
+			],
+			[
+				"FR",
+				"Firework"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"bas",
+				"baseYSpeed"
+			],
+			[
+				"ra",
+				"randY"
+			],
+			[
+				"M",
+				"MAX_FIREWORK"
+			],
+			[
+				"fw",
+				"frwk"
+			],
+			[
+				"part",
+				"partSize"
+			],
+			[
+				"par",
+				"partSize"
+			],
+			[
+				"dr",
+				"drawAll"
+			],
+			[
+				"beg",
+				"beginZ"
+			],
+			[
+				"GLfl",
+				"GLfloat"
+			],
+			[
+				"fire",
+				"fireCannon"
+			],
+			[
+				"tar",
+				"targetZ"
+			],
+			[
+				"cam",
+				"cameraZ"
+			],
+			[
+				"cama",
+				"cameraX"
+			],
+			[
+				"max",
+				"MAX_PART"
+			],
+			[
+				"Fire",
+				"Firework"
+			],
+			[
+				"Firew",
+				"FIREWORK_PARTICLES"
+			],
+			[
+				"glf",
+				"GLfloat"
+			],
+			[
+				"FIR",
+				"FIREWORK_PARTICLES"
+			],
+			[
+				"ero",
+				"errors"
+			],
+			[
+				"rel",
+				"relError"
+			],
+			[
+				"rep",
+				"replace"
+			],
+			[
+				"SL",
+				"SDL_CFLAGS"
+			],
+			[
+				"tr",
+				"TreeAns"
+			],
+			[
+				"dif",
+				"diffAnswer"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"iter",
+				"iterations"
+			],
+			[
+				"Tr",
+				"TreeAns"
+			],
+			[
+				"exp",
+				"expressions"
+			],
+			[
+				"sa",
+				"saveAsDot"
+			],
+			[
+				"copy",
+				"copySubtree"
+			],
+			[
+				"cop",
+				"copySubtree"
+			],
+			[
+				"dum",
+				"dummyRoot"
+			],
+			[
+				"du",
+				"dummyRoot"
+			],
+			[
+				"expr",
+				"expression"
+			],
+			[
+				"cp",
+				"copySubtree"
+			],
+			[
+				"set",
+				"setInfo"
+			],
+			[
+				"Nu",
+				"NUMBER"
+			],
+			[
+				"is",
+				"isBinaryOperator"
+			],
+			[
+				"pri",
+				"printInfixNode"
+			],
+			[
+				"prin",
+				"printInfix"
+			],
+			[
+				"var",
+				"variable"
+			],
+			[
+				"pro",
+				"PRODUCT"
+			],
+			[
+				"at",
+				"atoi"
+			],
+			[
+				"eva",
+				"evalNode"
+			],
+			[
+				"evl",
+				"evalNode"
+			],
+			[
+				"ev",
+				"evalNode"
+			],
+			[
+				"to",
+				"Token"
+			],
+			[
+				"sim",
+				"simplifyNode"
+			],
+			[
+				"ex",
+				"extractFirstWord"
+			],
+			[
+				"remo",
+				"removeFirstWord"
+			],
+			[
+				"subs",
+				"substr"
+			],
+			[
+				"T",
+				"Token"
+			],
+			[
+				"info",
+				"info"
+			],
+			[
+				"sub",
+				"subExpr"
+			],
+			[
+				"co",
+				"copySubtree"
+			],
+			[
+				"DE",
+				"DIVIDE"
+			],
+			[
+				"ro",
+				"root"
+			],
+			[
+				"last",
+				"lastOnPath"
+			],
+			[
+				"inser",
+				"insertNode"
+			],
+			[
+				"las",
+				"lastOnPath"
+			],
+			[
+				"getr",
+				"getRight"
+			],
+			[
+				"not",
+				"rotateNodeLeft"
+			],
+			[
+				"getl",
+				"getLeft"
+			],
+			[
+				"A",
+				"AVLNode"
+			],
+			[
+				"rotate",
+				"rotateNodeRight"
+			],
+			[
+				"node",
+				"nodeHeight"
+			],
+			[
+				"nod",
+				"nodeHeight"
+			],
+			[
+				"ins",
+				"insert"
+			],
+			[
+				"Dot",
+				"DOTsize"
+			],
+			[
+				"const",
+				"const"
+			],
+			[
+				"tree",
+				"TreeNode"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"grou",
+				"groundD"
+			],
+			[
+				"gl",
+				"glTranslatef"
+			],
+			[
+				"GL_s",
+				"GL_QUADS"
+			],
+			[
+				"GLf",
+				"GLfloat"
+			],
+			[
+				"blade",
+				"bladeL"
+			],
+			[
+				"blad",
+				"bladeL"
+			],
+			[
+				"ground",
+				"groundZ"
+			],
+			[
+				"groun",
+				"groundD"
+			],
+			[
+				"bla",
+				"bladeW"
+			],
+			[
+				"GR",
+				"groundW"
+			],
+			[
+				"gro",
+				"groundD"
+			],
+			[
+				"fla",
+				"float"
+			],
+			[
+				"sp",
+				"sphere_x"
+			],
+			[
+				"spe",
+				"sphere_x"
+			],
+			[
+				"spher",
+				"sphere_x"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pipe3.sh",
+			"settings":
+			{
+				"buffer_size": 103,
+				"line_ending": "Unix",
+				"name": "#!bin/bash"
+			}
+		},
+		{
+			"file": "time.py",
+			"settings":
+			{
+				"buffer_size": 1132,
+				"line_ending": "Unix",
+				"name": "import sys"
+			}
+		},
+		{
+			"file": "pipe4.sh",
+			"settings":
+			{
+				"buffer_size": 187,
+				"line_ending": "Unix",
+				"name": "#!/bin/bash"
+			}
+		},
+		{
+			"file": "pipe1.sh",
+			"settings":
+			{
+				"buffer_size": 84,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pipe2.sh",
+			"settings":
+			{
+				"buffer_size": 204,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tree.py",
+			"settings":
+			{
+				"buffer_size": 1308,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "geoIP.py",
+			"settings":
+			{
+				"buffer_size": 192,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"rev",
+				"File: Revert"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: For Loop"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/dvente/Dropbox/Huiswerk/PT/pipeline/test.py",
+		"/home/dvente/Dropbox/Huiswerk/PT/pipeline/fork.py",
+		"/home/dvente/Dropbox/Huiswerk/PT/pipeline/pipe2.sh",
+		"/home/dvente/Dropbox/Huiswerk/PT/pipeline/copy.py",
+		"/home/dvente/Dropbox/Huiswerk/PT/pipeline/pipe2 (Daniel Vente's conflicted copy 2016-02-08).sh",
+		"/home/dvente/Dropbox/Huiswerk/PT/pipeline/pipe1 (Daniel Vente's conflicted copy 2016-02-08).sh",
+		"/home/dvente/Dropbox/Huiswerk/PT/pipeline/geoIP.py",
+		"/home/dvente/Dropbox/Huiswerk/PT/pipeline/tree.py",
+		"/home/dvente/Dropbox/Huiswerk/PT/pipeline/pipe1.sh",
+		"/home/dvente/Dropbox/Huiswerk/PT/pipeline/time.py",
+		"/home/dvente/Dropbox/Huiswerk/PT/pipeline/pipe2 (Daniel Vente's conflicted copy 2016-02-03).sh",
+		"/home/dvente/Dropbox/Huiswerk/PT/pipeline/pipe4.sh",
+		"/home/dvente/Dropbox/Portfolio/Rotate/AVLNode.h",
+		"/home/dvente/Dropbox/Portfolio/Rotate/AVLTree.h",
+		"/home/dvente/Dropbox/Portfolio/Rotate/SplayTree.h",
+		"/home/dvente/Dropbox/Portfolio/Rotate/treeInt.cpp",
+		"/home/dvente/Dropbox/Portfolio/Rotate/Makefile",
+		"/home/dvente/Dropbox/Portfolio/Rotate/rotateTester.py",
+		"/home/dvente/Dropbox/Portfolio/CV/cv.tex",
+		"/home/dvente/Dropbox/Portfolio/Rotate/tree-dump.cpp",
+		"/home/dvente/Dropbox/Portfolio/Rotate/ToDo.txt",
+		"/home/dvente/Dropbox/Portfolio/Rotate/BTree",
+		"/home/dvente/Dropbox/Portfolio/Rotate/BST.h",
+		"/home/dvente/Dropbox/Portfolio/Rotate/instr.txt",
+		"/home/dvente/Dropbox/Portfolio/Rotate/Tree.h",
+		"/home/dvente/Dropbox/Portfolio/Rotate/TreeNode.h",
+		"/home/dvente/Dropbox/Portfolio/Rotate/dump.txt",
+		"/home/dvente/Dropbox/Portfolio/ExpTree/tester.py",
+		"/home/dvente/Dropbox/Portfolio/ExpTree/token.cpp",
+		"/home/dvente/Dropbox/Portfolio/ExpTree/expTree.cpp",
+		"/home/dvente/Downloads/KMP.py",
+		"/home/dvente/Dropbox/Portfolio/ExpTree/expTree.h",
+		"/home/dvente/Dropbox/Portfolio/ExpTree/token.h",
+		"/home/dvente/Dropbox/Portfolio/Rotate/tree.cpp",
+		"/home/dvente/Dropbox/Portfolio/ExpTree/interpreter.cpp",
+		"/home/dvente/Dropbox/Portfolio/ExpTree/Tree.h",
+		"/home/dvente/Dropbox/Portfolio/Rotate/tree-test.cpp",
+		"/home/dvente/Dropbox/Portfolio/Rotate/splayDump.cpp",
+		"/home/dvente/Dropbox/Portfolio/Rotate/readme.txt",
+		"/home/dvente/Dropbox/Portfolio/Rotate/fork.cpp",
+		"/home/dvente/Dropbox/Portfolio/Rotate/finalToDo.txt",
+		"/home/dvente/Dropbox/Portfolio/Rotate/BTree.h",
+		"/home/dvente/Dropbox/Portfolio/Rotate/AVLTree-backup.h",
+		"/home/dvente/Dropbox/Portfolio/Rotate/tree",
+		"/home/dvente/Dropbox/Portfolio/Rotate/RotateOpdracht.zip",
+		"/home/dvente/Dropbox/Portfolio/Rotate/Opdracht2.aux",
+		"/home/dvente/Dropbox/Portfolio/Rotate/Opdracht2.log",
+		"/home/dvente/Dropbox/Portfolio/Rotate/Opdracht2.pdf",
+		"/home/dvente/Dropbox/Portfolio/Rotate/Opdracht2.tex",
+		"/home/dvente/Dropbox/Portfolio/Rotate/Opdracht2.tex.backup",
+		"/home/dvente/Dropbox/Huiswerk/CG/FinalProject/mybib.bib",
+		"/home/dvente/Dropbox/Huiswerk/CG/FinalProject/report.tex",
+		"/home/dvente/Dropbox/Huiswerk/CG/FinalProject/Makefile",
+		"/home/dvente/Dropbox/Huiswerk/CG/FinalProject/project.cpp",
+		"/home/dvente/Dropbox/Huiswerk/CG/FinalProject/README.txt",
+		"/home/dvente/.config/sublime-text-2/Packages/User/LaTeXTools.sublime-settings",
+		"/home/dvente/Dropbox/Huiswerk/CG/workshop1/cannon.cpp",
+		"/home/dvente/Downloads/lesson11/lesson11.cpp",
+		"/home/dvente/Downloads/21_sound_effects_and_music/21_sound_effects_and_music.cpp",
+		"/home/dvente/Downloads/01_hello_SDL/01_hello_SDL.cpp",
+		"/home/dvente/Dropbox/Huiswerk/CG/FinalProject/fork.cpp",
+		"/home/dvente/Downloads/glclogo.c",
+		"/home/dvente/Downloads/base/cannon.cpp",
+		"/home/dvente/Dropbox/Huiswerk/CG/FinalProject/dump.cpp",
+		"/home/dvente/Dropbox/Huiswerk/CG/atlantis/atlantis.c",
+		"/home/dvente/Dropbox/Huiswerk/Old/DS/Rotate/AVLTree.h",
+		"/home/dvente/Dropbox/Huiswerk/Old/DS/ExpTree/expTree.cpp",
+		"/home/dvente/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
+		"/home/dvente/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/dvente/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/dvente/Dropbox/Portfolio/cv.tex",
+		"/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/tester.py",
+		"/home/dvente/Dropbox/Huiswerk/Commutatieve Algebra/CA12.tex",
+		"/home/dvente/Dropbox/Huiswerk/Commutatieve Algebra/CA11.tex",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/README.txt",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/loop.py",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/expTree.cpp",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/token.h",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/Tree.h",
+		"/home/dvente/Dropbox/Huiswerk/Old/Algoritmiek/Dynamic/main.cc",
+		"/home/dvente/Dropbox/Huiswerk/Old/Algoritmiek/Dynamic/jewel.cc",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/finalToDo.txt",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/file.txt",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/testExp",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/fork.py",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/BTree.h",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/inter.txt",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/interpreter",
+		"/home/dvente/Dropbox/Huiswerk/DS/DS.sublime-project",
+		"/home/dvente/Dropbox/Huiswerk/CG/FinalProject/Journal.txt",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/Makefile",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/ToDo.txt",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/expression.txt",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/interpreter.cpp",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/expTree.h",
+		"/home/dvente/Dropbox/Huiswerk/DS/Rotate/Opdracht2.pdf",
+		"/home/dvente/.config/sublime-text-2/Packages/User/README.sublime-snippet",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/secondDump.txt",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/dump",
+		"/home/dvente/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/interpeter.cpp",
+		"/home/dvente/Dropbox/Huiswerk/DS/Rotate/Makefile",
+		"/home/dvente/Dropbox/Huiswerk/DS/Rotate/finalToDo.txt",
+		"/home/dvente/Dropbox/Huiswerk/DS/Rotate/tree.cpp",
+		"/home/dvente/Dropbox/Huiswerk/DS/Rotate/dump.txt",
+		"/home/dvente/Dropbox/Huiswerk/DS/Rotate/SplayTree.h",
+		"/home/dvente/Dropbox/Huiswerk/DS/Rotate/Tree.h",
+		"/home/dvente/Dropbox/Huiswerk/DS/Rotate/AVLTree.h",
+		"/home/dvente/Dropbox/Huiswerk/DS/Rotate/BTree.h",
+		"/home/dvente/Dropbox/Huiswerk/DS/Rotate/Opdracht2.tex",
+		"/home/dvente/Dropbox/Huiswerk/DS/Rotate/ToDo.txt",
+		"/home/dvente/Dropbox/Writings/scar artist",
+		"/home/dvente/Dropbox/Huiswerk/DS/Rotate/fork.cpp",
+		"/home/dvente/Dropbox/Huiswerk/DS/Rotate/splayDump.cpp",
+		"/home/dvente/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/dvente/Downloads/CGworkshop/src/Workshop2.cpp",
+		"/home/dvente/Dropbox/Huiswerk/CG/project/cannon.cpp",
+		"/home/dvente/Dropbox/Huiswerk/DS/Stapel/Pstack.h",
+		"/home/dvente/Dropbox/Huiswerk/CG/workshop1/CG",
+		"/home/dvente/Dropbox/Huiswerk/CG/PreWorkshop/EX1.cpp",
+		"/home/dvente/Dropbox/Huiswerk/DS/Stapel/Makefile",
+		"/home/dvente/Dropbox/Huiswerk/DS/Stapel/stack.cpp",
+		"/home/dvente/Dropbox/Huiswerk/DS/Stapel/Vstack.h",
+		"/home/dvente/Dropbox/Huiswerk/DS/Stapel/Sstack.h",
+		"/home/dvente/Dropbox/Huiswerk/DS/Stapel/Astack.h",
+		"/home/dvente/Dropbox/Huiswerk/Old/Algoritmiek/BackTrack/main.cc",
+		"/home/dvente/Dropbox/Huiswerk/Old/Algoritmiek/BackTrack/graaf.h"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			" \n",
+			"input[-1]",
+			"data[-1][1]",
+			"data[i]",
+			"i",
+			"hour",
+			"||",
+			"stamp",
+			"output",
+			"getInPre",
+			"NULL",
+			"rotateNode",
+			"eraseRoo",
+			"reBal",
+			"BTree",
+			"eraseR",
+			"parent->getRight()",
+			"parent->getRight());",
+			"parent->getRight()",
+			"delete -98",
+			"parent->getRight()",
+			"setInfo",
+			"parent->getRight()->",
+			"parent->getRight()",
+			"isLea",
+			"parent",
+			"string",
+			"stoi",
+			"expression",
+			"size",
+			"Right",
+			"current",
+			"expr",
+			"contains",
+			"_",
+			"discriptoin",
+			"enumerate",
+			"First",
+			"first",
+			"First",
+			"first",
+			"First",
+			"first",
+			"pdf",
+			"finalproject",
+			"bool",
+			"swap",
+			"gScratch",
+			"float",
+			", float \\)",
+			", float )",
+			", float \\)",
+			"[tT]heta",
+			"initialise",
+			"cir",
+			"5",
+			"finished",
+			"num",
+			"float",
+			"color",
+			"for\\(",
+			"for(",
+			"numarrows--",
+			"5",
+			"MAX_F",
+			"render",
+			"theta",
+			"phi",
+			"explodec",
+			"init",
+			"rand",
+			"drawGlow",
+			"circu",
+			"cir",
+			"cout",
+			"hasExpl",
+			"key",
+			"initi",
+			"init",
+			"numFirework",
+			"0",
+			"initialise",
+			"1.0f",
+			"0.5f",
+			"5f",
+			"0.5f",
+			"0.5",
+			"hasExploded",
+			"();\n",
+			"drawGlow();",
+			"()",
+			"glowTo",
+			"float",
+			"move",
+			"v",
+			"thirdTrail",
+			"firstTrail",
+			"0.5f",
+			"firstTrail",
+			"move",
+			"a\\[[a-Z_]+\\]",
+			"a\\[[a-Z]+\\]",
+			"explode",
+			"a[i]",
+			"z[i]",
+			"y[i]",
+			"x[i]",
+			"2.0f",
+			"[i]",
+			"5f",
+			"]*0.5f",
+			"*0.5f",
+			"explode",
+			"numFirework",
+			"b",
+			"r",
+			"[j]",
+			"MAX_PART",
+			"float",
+			"numbf",
+			"explode",
+			"partsize",
+			"part",
+			"explode",
+			"a",
+			"THRESH",
+			"  ",
+			"0.3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"BST",
+			"\\_",
+			"GLfloat",
+			")",
+			"",
+			"a",
+			"\\{\\n",
+			"\\t",
+			"\\{\\n",
+			"\\{",
+			"r",
+			"g",
+			"\\) != c",
+			"\\) != c ",
+			"   ",
+			"    ",
+			"  ",
+			" ",
+			"double",
+			".type",
+			"getInfo().",
+			"->getInfo().",
+			"->info",
+			"->",
+			"temp->",
+			"std::string",
+			"this->root",
+			"(this->root",
+			"BTree<T>::",
+			"BTree::",
+			"parent->",
+			".getRight()",
+			".getLeft()",
+			"this->root",
+			"Tile<T>",
+			"",
+			"\\&",
+			"\\\\\\",
+			"\\&",
+			"\\\\\\",
+			"\\&",
+			"\\\\\\",
+			"\\&",
+			"\\\\\\",
+			"\\\\",
+			"W[expr][",
+			"Clyde",
+			"Bonnie",
+			"#2",
+			"#1",
+			"\\\\\\",
+			"\\\\",
+			"&",
+			"playSmartGame (int data[],int size, int current, bool print )",
+			"data",
+			"playSmarterGame (int data[], int size )"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pipe3.sh",
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								103,
+								103
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#!bin/bash",
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "time.py",
+					"settings":
+					{
+						"buffer_size": 1132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								895,
+								895
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import sys",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pipe4.sh",
+					"settings":
+					{
+						"buffer_size": 187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#!/bin/bash",
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pipe1.sh",
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "pipe2.sh",
+					"settings":
+					{
+						"buffer_size": 204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "tree.py",
+					"settings":
+					{
+						"buffer_size": 1308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								788,
+								788
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "geoIP.py",
+					"settings":
+					{
+						"buffer_size": 192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								186
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Rouge/Rouge.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true
+}
