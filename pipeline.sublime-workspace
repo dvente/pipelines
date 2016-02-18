@@ -523,7 +523,7 @@
 			"file": "pipe3.sh",
 			"settings":
 			{
-				"buffer_size": 103,
+				"buffer_size": 117,
 				"line_ending": "Unix",
 				"name": "#!bin/bash"
 			}
@@ -532,7 +532,7 @@
 			"file": "time.py",
 			"settings":
 			{
-				"buffer_size": 1132,
+				"buffer_size": 1124,
 				"line_ending": "Unix",
 				"name": "import sys"
 			}
@@ -541,7 +541,7 @@
 			"file": "pipe4.sh",
 			"settings":
 			{
-				"buffer_size": 187,
+				"buffer_size": 192,
 				"line_ending": "Unix",
 				"name": "#!/bin/bash"
 			}
@@ -550,7 +550,7 @@
 			"file": "pipe1.sh",
 			"settings":
 			{
-				"buffer_size": 84,
+				"buffer_size": 102,
 				"line_ending": "Unix"
 			}
 		},
@@ -558,7 +558,7 @@
 			"file": "pipe2.sh",
 			"settings":
 			{
-				"buffer_size": 204,
+				"buffer_size": 137,
 				"line_ending": "Unix"
 			}
 		},
@@ -582,9 +582,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 138.0,
 		"selected_items":
 		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
 			[
 				"pak",
 				"Package Control: Install Package"
@@ -603,10 +607,6 @@
 			],
 			[
 				"Package Control: in",
-				"Package Control: Install Package"
-			],
-			[
-				"Package Control: ins",
 				"Package Control: Install Package"
 			],
 			[
@@ -647,6 +647,7 @@
 	},
 	"file_history":
 	[
+		"/home/dvente/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
 		"/home/dvente/Dropbox/Huiswerk/PT/pipeline/test.py",
 		"/home/dvente/Dropbox/Huiswerk/PT/pipeline/fork.py",
 		"/home/dvente/Dropbox/Huiswerk/PT/pipeline/pipe2.sh",
@@ -747,7 +748,6 @@
 		"/home/dvente/.config/sublime-text-2/Packages/User/README.sublime-snippet",
 		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/secondDump.txt",
 		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/dump",
-		"/home/dvente/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
 		"/home/dvente/Dropbox/Huiswerk/DS/ExpTree/interpeter.cpp",
 		"/home/dvente/Dropbox/Huiswerk/DS/Rotate/Makefile",
 		"/home/dvente/Dropbox/Huiswerk/DS/Rotate/finalToDo.txt",
@@ -993,7 +993,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -1001,15 +1001,15 @@
 					"file": "pipe3.sh",
 					"settings":
 					{
-						"buffer_size": 103,
+						"buffer_size": 117,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								103,
-								103
+								117,
+								117
 							]
 						],
 						"settings":
@@ -1028,15 +1028,15 @@
 					"file": "time.py",
 					"settings":
 					{
-						"buffer_size": 1132,
+						"buffer_size": 1124,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								895,
-								895
+								791,
+								791
 							]
 						],
 						"settings":
@@ -1056,15 +1056,15 @@
 					"file": "pipe4.sh",
 					"settings":
 					{
-						"buffer_size": 187,
+						"buffer_size": 192,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								11,
-								11
+								192,
+								192
 							]
 						],
 						"settings":
@@ -1072,7 +1072,7 @@
 							"auto_name": "#!/bin/bash",
 							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
 						},
-						"translation.x": 0.0,
+						"translation.x": 345.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -1083,15 +1083,15 @@
 					"file": "pipe1.sh",
 					"settings":
 					{
-						"buffer_size": 84,
+						"buffer_size": 102,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								84,
-								84
+								35,
+								35
 							]
 						],
 						"settings":
@@ -1109,15 +1109,15 @@
 					"file": "pipe2.sh",
 					"settings":
 					{
-						"buffer_size": 204,
+						"buffer_size": 137,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								204,
-								204
+								137,
+								137
 							]
 						],
 						"settings":
@@ -1142,8 +1142,8 @@
 						"selection":
 						[
 							[
-								788,
-								788
+								530,
+								530
 							]
 						],
 						"settings":
@@ -1151,7 +1151,7 @@
 							"syntax": "Packages/Python/Python.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 306.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

@@ -5,7 +5,6 @@ import time
 import numpy as np
 import matplotlib.pyplot as plt
 
-data=[]
 stamp = {}
 for line in sys.stdin:
 	input = line.split(' ')
